@@ -10,7 +10,7 @@ After opening the terminal, I logged into ieng6 by typing my log in username and
  ## Part 2 (step 5) 
  In a previous step, I forked the lab7 repository on my github account. I copied the clone link from my github and ran ``` git clone https://github.com/Pank1-2/lab7.git <Enter> ``` on the terminal. 
  
- <img src = "Screen Shot 2023-05-22 at 11.42.22 AM.png" width = "600" height ="150">
+ <img src = "Screen Shot 2023-05-22 at 2.00.22 PM.png" width = "500" height ="150">
  
  ## Part 3 (step 6) 
  Before I run the tests in the lab7 file, I want to go into the file first. To do that I ran ```cd lab7 <Enter>```. To run the tests, I ran ```sh ./test.sh <Enter> ```. There is a bug in the code causing a failure. 
