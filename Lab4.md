@@ -29,10 +29,10 @@ To see if my tests run after editing the code, I ran the same command from part 
 To commit and push changes onto my GitHub account, I first added the files I wanted to commit by running ```git add ListExamples.java <Enter>```. Then, just to check the status of my repository and my modified files, I ran ```git status <Enter>```. 
  <img src = "Screen Shot 2023-05-22 at 12.29.27 PM.png" width = "600" height ="250">
  
-After checking the status, I began to commit the changes by running ```git commit -m "fixed ListExamples" <Enter>```. This command commits my changes and adds a little message about what I did.  
-<img src = "Screen Shot 2023-05-22 at 12.29.48 PM.png" width = "600" height ="250">
+After checking the status, I began to commit the changes by running ```git commit -m "fixed ListExamples" <Enter>```. This command commits my changes and adds a little message about what I did. Then in order to fork the changes onto my GitHub account, I ran ```git push origin main <Enter> ```.
+
+<img src = "Screen Shot 2023-05-22 at 1.49.42 PM.png" width = "600" height ="350">
  
-Then in order to fork the changes onto my GitHub account, I ran ```git push origin main <Enter> ``` which then 
 
 
 
